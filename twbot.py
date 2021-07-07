@@ -4,3 +4,8 @@ if sasha_lubit_menya:
     print("ya lublu tebya")
 else:
     raise ValueError(f"Sasha ne lubit menya:(")
+
+if sasha_lubit_menya:
+    print("ya lublu tebya")
+else:
+    raise ValueError(f"Sasha ne lubit menya:(")
